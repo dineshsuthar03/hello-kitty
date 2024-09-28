@@ -4,7 +4,7 @@
       "architecture": "x86_64",
       "authorization_type": "NONE",
       "cors": [],
-      "create_function_url": false,
+      "create_function_url": true,
       "description": null,
       "environment_variables": {
         "IMAGES_BUCKET": "dineshsuthar9768-0312"
